@@ -5,7 +5,7 @@ This module provides TypedDict definitions for all PartsBox API entities.
 These types enable strongly-typed responses and better IDE support.
 """
 
-from typing import TypedDict
+from typing_extensions import TypedDict
 
 
 # =============================================================================
